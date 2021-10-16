@@ -36,7 +36,7 @@ class _LoginPageState extends State<LoginPage> {
                   Colors.white,
                   //Color(0xFFD8D8D8),
                   //Color(0xFFAAAAAA),
-                  Theme.of(context).colorScheme.background.withOpacity(0.5),
+                  Theme.of(context).colorScheme.background.withRed(2),
                   //Theme.of(context).colorScheme.background.withOpacity(0.6),
                   //Colors.white,
                 ],
